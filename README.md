@@ -62,8 +62,6 @@ The project files are organized as follows:
 
 ## Visualizations
 
-## Visualizations
-
 The project includes the following visualizations to better understand the data and patterns:
 
 1. **[Cumulative Event Counts](./output/event_analysis_charts/cumulative_event_counts.png)**: Shows the cumulative counts of CME and GST events over time.
@@ -175,20 +173,7 @@ In closing, this project not only reinforces the value of data analysis and mach
 
 This project is licensed under the **MIT License** – a permissive license that allows for reuse, modification, and distribution. You are free to use this code and data in any project, provided attribution is given to the original author. 
 
-A copy of the license text can be found in the [`LICENSE`](./LICENSE) file in this repository.
-
-```markdown
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+A copy of the license text can be found in the [`LICENSE`](./LICENSE.txt) file in this repository.
 
 
 ## References
